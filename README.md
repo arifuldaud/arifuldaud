@@ -68,7 +68,7 @@ I'm a developer from Bangladesh who loves building modern web applications. I le
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![LiteSpeed](https://img.shields.io/badge/LiteSpeed_Server-00A3E0?style=for-the-badge)
 
-### 🚀 Deployment Plateform
+### 🚀 Deployment Platform
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
