@@ -4,8 +4,6 @@
 
 ### 🚀 Aspiring Full-Stack & AI Engineer
 
-**TypeScript · React · Next.js · Node.js · PostgreSQL · RAG**
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dev.daudbd.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arifuldaud)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifuldaud@gmail.com)
@@ -25,6 +23,12 @@ I'm a developer from Bangladesh who loves building modern web applications. I le
 - 🤖 **AI Engineering:** learning LLMs, RAG, LangChain, Multi-Agent Systems and MCP
 - ☁️ **Production:** learning Docker, NGINX, AWS and CI/CD
 - 🤝 Open to collaborating on **full-stack and open-source** projects
+
+<div align="center">
+
+[![Skills](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=TypeScript;React;Next.js;Node.js;PostgreSQL;RAG)](https://github.com/arifuldaud)
+
+</div>
 
 ---
 
@@ -94,12 +98,28 @@ I'm a developer from Bangladesh who loves building modern web applications. I le
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics & Analysis
+
+### 📈 Contribution Graph
 
 <div align="center">
 
-<img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=arifuldaud&show_icons=true&theme=default&hide_border=true" />
-<img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifuldaud&layout=compact&theme=default&hide_border=true" />
+<img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=arifuldaud&theme=react-dark&hide_border=true&area=true" width="100%" />
+
+</div>
+
+### 🔥 Streak & Stats
+
+<div align="center">
+
+<img height="180" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=arifuldaud&theme=dark&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=arifuldaud&show_icons=true&theme=dark&hide_border=true" />
+<img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifuldaud&layout=compact&theme=dark&hide_border=true" />
 
 </div>
 
