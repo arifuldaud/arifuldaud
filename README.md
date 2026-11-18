@@ -16,7 +16,6 @@
 [![Skills](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=TypeScript;React;Next.js;Node.js;PostgreSQL;RAG)](https://github.com/arifuldaud)
 
 </div>
----
 
 ## 👨‍💻 About Me
 
