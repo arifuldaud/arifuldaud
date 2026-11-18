@@ -130,10 +130,6 @@ A tech blog built and hosted on WordPress.
 
 [![Visit Site](https://img.shields.io/badge/Visit_Site-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://daudbd.com)
 
-### 🎬 MLX4U - Movie Reviews
-Movie reviews and information site built on WordPress.
-
-[![Visit Site](https://img.shields.io/badge/Visit_Site-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://mlx4u.com)
 
 ### 📺 BFC Live
 A live TV web application, currently running and accessible online.
