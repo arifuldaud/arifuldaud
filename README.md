@@ -11,7 +11,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=arifuldaud&style=flat-square&color=blue)
 
 </div>
+<div align="center">
 
+[![Skills](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=TypeScript;React;Next.js;Node.js;PostgreSQL;RAG)](https://github.com/arifuldaud)
+
+</div>
 ---
 
 ## 👨‍💻 About Me
@@ -23,13 +27,6 @@ I'm a developer from Bangladesh who loves building modern web applications. I le
 - 🤖 **AI Engineering:** learning LLMs, RAG, LangChain, Multi-Agent Systems and MCP
 - ☁️ **Production:** learning Docker, NGINX, AWS and CI/CD
 - 🤝 Open to collaborating on **full-stack and open-source** projects
-
-<div align="center">
-
-[![Skills](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=TypeScript;React;Next.js;Node.js;PostgreSQL;RAG)](https://github.com/arifuldaud)
-
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
