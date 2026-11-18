@@ -67,14 +67,14 @@ I'm a developer from Bangladesh who loves building modern, scalable, and high-pe
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
-![Wapka]\([https://img.shields.io/badge/Wapka-333333?style=for-the-badge&logo=web&logoColor=white](https://img.shields.io/badge/Wapka-333333?style=for-the-badge\&logo=web\&logoColor=white))
-
+![Wapka](https://img.shields.io/badge/Wapka-333333?style=for-the-badge&logo=googlechrome&logoColor=white)
 ---
 
 ## 🎯 Currently Learning
 
 | Area | Topics |
 | :--- | :--- |
+| **FrontEnd** | Javascript,React,TypeScript, Next JS |
 | **Backend** | Advanced Node.js, NestJS, PostgreSQL, Redis |
 | **AI** | LLM apps, Vector Databases, MCP (Model Context Protocol) |
 | **DevOps** | Docker, AWS, CI/CD pipelines |
