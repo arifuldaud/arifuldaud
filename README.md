@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Md Ariful Islam
 
-### 🚀 Aspiring Full-Stack Developer
+### 🚀 Aspiring Full-Stack & AI Engineer
 
-**TypeScript · React · Next.js · Node.js · PostgreSQL**
+**TypeScript · React · Next.js · Node.js · PostgreSQL · RAG**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dev.daudbd.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arifuldaud)
@@ -18,12 +18,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a developer from Bangladesh who loves building modern, scalable, and high-performance web applications. I learn by building: every concept I study turns into a hands-on project.
+I'm a developer from Bangladesh who loves building modern web applications. I learn by building: every concept I study turns into a hands-on project.
 
-- 🔭 Building full-stack apps with **Next.js, TypeScript, Node.js and PostgreSQL**
-- 🌱 Currently exploring **AI/LLM, MCP (Model Context Protocol), Redis and Vector Databases**
-- ☁️ Learning **AWS, Docker and CI/CD** to understand how apps are shipped and run in production
-- 🤝 Open to collaborating on **full-stack, backend and open-source** projects
+- 💻 **Frontend:** comfortable with HTML, CSS, JavaScript, TypeScript, React, Next.js and Tailwind CSS
+- ⚙️ **Backend & Database:** learning Node.js, NestJS, PostgreSQL, Drizzle ORM and Redis
+- 🤖 **AI Engineering:** learning LLMs, RAG, LangChain, Multi-Agent Systems and MCP
+- ☁️ **Production:** learning Docker, NGINX, AWS and CI/CD
+- 🤝 Open to collaborating on **full-stack and open-source** projects
 
 ---
 
@@ -48,11 +49,21 @@ I'm a developer from Bangladesh who loves building modern, scalable, and high-pe
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🤖 AI Engineering
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector_Database-0F766E?style=for-the-badge)
 
 ### ☁️ DevOps & Cloud
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
@@ -68,16 +79,18 @@ I'm a developer from Bangladesh who loves building modern, scalable, and high-pe
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 ![Wapka](https://img.shields.io/badge/Wapka-333333?style=for-the-badge&logo=googlechrome&logoColor=white)
+
 ---
 
 ## 🎯 Currently Learning
 
 | Area | Topics |
 | :--- | :--- |
-| **FrontEnd** | Javascript,React,TypeScript, Next JS |
-| **Backend** | Advanced Node.js, NestJS, PostgreSQL, Redis |
-| **AI** | LLM apps, Vector Databases, MCP (Model Context Protocol) |
-| **DevOps** | Docker, AWS, CI/CD pipelines |
+| **Full-Stack Development** | TypeScript, Next.js, Node.js, Express.js, NestJS, OOP, Authentication, RBAC |
+| **Database Management** | SQL, PostgreSQL, Drizzle ORM, Redis, Vector Databases |
+| **AI Engineering** | LLM, RAG, LangChain, Multi-Agent Systems, Prompt Engineering, Tool Calling, AI Guardrails, Embeddings, MCP |
+| **Production & Deployment** | Docker, Multi-Container Applications, NGINX, AWS, GitHub Actions, CI/CD, VPS |
+| **Software Engineering** | Multi-tenant Architecture, Database Design, SaaS Product Development, Clean Code, Best Practices, System Design, Testing, Scalability |
 
 ---
 
