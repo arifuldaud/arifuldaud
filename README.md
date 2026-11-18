@@ -67,11 +67,39 @@ I'm a developer from Bangladesh who loves building modern web applications. I le
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![LiteSpeed](https://img.shields.io/badge/LiteSpeed_Server-00A3E0?style=for-the-badge)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ### 🚀 Deployment Platform
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🔍 SEO & Performance
+
+**SEO Skills**
+
+![SEO](https://img.shields.io/badge/SEO-0F766E?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+![Keyword Research](https://img.shields.io/badge/Keyword_Research-4285F4?style=for-the-badge)
+![On-Page SEO](https://img.shields.io/badge/On--Page_SEO-16A34A?style=for-the-badge)
+![Off-Page SEO](https://img.shields.io/badge/Off--Page_SEO-EA580C?style=for-the-badge)
+![Technical SEO](https://img.shields.io/badge/Technical_SEO-6D28D9?style=for-the-badge)
+![Content SEO](https://img.shields.io/badge/Content_SEO-DB2777?style=for-the-badge)
+![Link Building](https://img.shields.io/badge/Link_Building-0369A1?style=for-the-badge)
+![Schema Markup](https://img.shields.io/badge/Schema_Markup-CA8A04?style=for-the-badge)
+![Core Web Vitals](https://img.shields.io/badge/Core_Web_Vitals-DC2626?style=for-the-badge)
+![Page Speed](https://img.shields.io/badge/Page_Speed-15803D?style=for-the-badge)
+![Sitemap & Robots](https://img.shields.io/badge/Sitemap_%26_Robots.txt-475569?style=for-the-badge)
+
+**SEO Tools**
+
+![Google Search Console](https://img.shields.io/badge/Search_Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![PageSpeed Insights](https://img.shields.io/badge/PageSpeed_Insights-4285F4?style=for-the-badge&logo=pagespeedinsights&logoColor=white)
+![Yoast SEO](https://img.shields.io/badge/Yoast_SEO-A4286A?style=for-the-badge&logo=yoast&logoColor=white)
+![Rank Math](https://img.shields.io/badge/Rank_Math-4F46E5?style=for-the-badge)
+![Semrush](https://img.shields.io/badge/Semrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white)
+![Ahrefs](https://img.shields.io/badge/Ahrefs-1E40AF?style=for-the-badge)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_CDN-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ### 🎨 Design & Graphics
 
