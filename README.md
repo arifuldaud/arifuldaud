@@ -90,6 +90,33 @@ I'm a developer from Bangladesh who loves building modern web applications. I le
 ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 ![Wapka](https://img.shields.io/badge/Wapka-333333?style=for-the-badge&logo=googlechrome&logoColor=white)
 
+## 🌍 Live Projects
+
+### 📚 StudyFlow
+Turn study goals into daily progress. A study planner app deployed on Vercel.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://studyflowapp-ten.vercel.app/)
+
+### 💻 Daud BD - Tech Blog
+A tech blog built and hosted on WordPress.
+
+[![Visit Site](https://img.shields.io/badge/Visit_Site-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://daudbd.com)
+
+### 🎬 MLX4U - Movie Reviews
+Movie reviews and information site built on WordPress.
+
+[![Visit Site](https://img.shields.io/badge/Visit_Site-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://mlx4u.com)
+
+### 📺 BFC Live
+A live TV web application, currently running and accessible online.
+
+[![Live Site](https://img.shields.io/badge/Live_Site-E50914?style=for-the-badge&logo=livejournal&logoColor=white)](https://bfclive.com)
+
+### ⚽ FIFA BFC Live
+Sports section of BFC Live, hosted on a Vercel subdomain.
+
+[![Visit Site](https://img.shields.io/badge/Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fifa.bfclive.com)
+
 ---
 
 ## 🎯 Currently Learning
